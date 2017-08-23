@@ -1,0 +1,20 @@
+{
+  "name": "static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "rollup-plugin-node-resolve": "^3.0.0",
+    "rollup-plugin-vue": "^2.4.1",
+    "vue": "^2.4.2"
+  },
+  "devDependencies": {
+    "rollup-plugin-css-only": "^0.2.0",
+    "rollup-plugin-node-globals": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
